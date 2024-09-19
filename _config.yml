@@ -1,2 +1,6 @@
 title: aisdoctor
+logo: /assets/img/logo.png
+description: AIS Doctor provides web data scrapping services at scale! Contact us with your data needs!
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-Minimal
